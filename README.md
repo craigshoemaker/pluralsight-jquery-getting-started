@@ -9,3 +9,6 @@ You can [download jQuery directly from the website](http://jquery.com) where you
 
 ## Versions
 jQuery is available in verion `1.x` and `2.x`. Select version `2.x` if you do not need to support Internet Explorer 6, 7, or 8 - otherwise version `1.x` is for you.
+
+## Where is the code?
+The code for this course is available from [Pluralsight](http://www.pluralsight.com) with a paid account.
