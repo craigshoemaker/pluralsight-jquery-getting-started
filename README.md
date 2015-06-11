@@ -2,7 +2,7 @@
 Information and Resources for the Pluralsight Course 'jQuery: Getting Started' by [Craig Shoemaker](http://craigshoemaker.net/about).
 
 ## Status
-This course is unpublished.
+This course is [published](http://www.pluralsight.com/courses/jquery-getting-started).
 
 ## Getting jQuery
 You can [download jQuery directly from the website](http://jquery.com) where you have the option to do a direct download, use a CDN or get instructions on downloading it with [Bower](http://bower.io/).
