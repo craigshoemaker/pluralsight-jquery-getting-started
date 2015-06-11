@@ -1,5 +1,5 @@
 # jQuery: Getting Started
-Information and Resources for the Pluralsight Course 'jQuery: Getting Started' by [Craig Shoemaker](http://craigshoemaker.net/about).
+Information and Resources for the Pluralsight Course [jQuery: Getting Started](http://www.pluralsight.com/courses/jquery-getting-started) by [Craig Shoemaker](http://craigshoemaker.net/about).
 
 ## Status
 This course is [published](http://www.pluralsight.com/courses/jquery-getting-started).
